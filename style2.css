@@ -1,0 +1,14 @@
+#p01{
+	font-family: cursive; 
+	text-align: center; 
+	border: 2px solid black; 
+	padding: 10px; 
+	margin: 50px;
+}
+.p02{
+	color:red; 
+	font-family: verdana;
+}
+h3{
+	background-color: green;
+}
